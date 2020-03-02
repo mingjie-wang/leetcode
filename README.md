@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-03-02 15:14:51, I have solved **6** / **1256** problems while **208** are still locked.
+Until 2020-03-02 21:56:07, I have solved **7** / **1256** problems while **208** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 6
+2. Python: 7
 3. C++: 0
 4. Java: 0
 
@@ -14,7 +14,7 @@ Note: :lock: means you need to buy a book from LeetCode
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|[Python](https://github.com/mingjie-wang/leetcode/001.%20Two%20Sum/1.two-sum.py)|To Do|To Do|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[Python](https://github.com/mingjie-wang/leetcode/002.%20Add%20Two%20Numbers/2.add-two-numbers.py)|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
