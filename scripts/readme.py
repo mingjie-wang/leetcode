@@ -235,7 +235,8 @@ class Readme:
                     _lock = ''
                 data = {
                     'id': item.id_,
-                    'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
+                    # add encode('utf-8') to covert from unicode to ascii text
+                    'title': '[{}]({}) {}'.format(item.title.encode('utf-8'), item.url, _lock),
                     'difficulty': item.difficulty,
                     'js': item.javascript if item.javascript else 'To Do',
                     'python': item.python if item.python else 'To Do',
