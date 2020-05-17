@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-05-14 04:34:07, I have solved **8** / **1322** problems while **213** are still locked.
+Until 2020-05-18 01:40:20, I have solved **9** / **1330** problems while **213** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 8
+2. Python: 9
 3. C++: 0
 4. Java: 0
 
@@ -17,7 +17,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[Python](https://github.com/mingjie-wang/leetcode/002.%20Add%20Two%20Numbers/2.add-two-numbers.py)|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[Python](https://github.com/mingjie-wang/leetcode/003.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longest-substring-without-repeating-characters.py)|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
-|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
+|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|[Python](https://github.com/mingjie-wang/leetcode/005.%20Longest%20Palindromic%20Substring/5.longest-palindromic-substring.py)|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|[Python](https://github.com/mingjie-wang/leetcode/007.%20Reverse%20Integer/7.reverse-integer.py)|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1327,6 +1327,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) |Medium|To Do|To Do|To Do|To Do|
 |1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/) |Easy|To Do|To Do|To Do|To Do|
+|1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/) |Medium|To Do|To Do|To Do|To Do|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|1449|[Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/) |Hard|To Do|To Do|To Do|To Do|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/description/) |Easy|To Do|To Do|To Do|To Do|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/) |Medium|To Do|To Do|To Do|To Do|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1335,3 +1339,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) |Medium|To Do|To Do|To Do|To Do|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) |Hard|To Do|To Do|To Do|To Do|
+|1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/) |Easy|To Do|To Do|To Do|To Do|
+|1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) |Medium|To Do|To Do|To Do|To Do|
+|1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|1453|[Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description/) |Hard|To Do|To Do|To Do|To Do|
